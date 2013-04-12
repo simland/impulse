@@ -4,6 +4,10 @@
  * -Require underscore
  */
 
+function tile(description,wall_vector_x, wall_vector_y,type,image_source){
+	
+}
+
 function raceTrack (type){
 	
 }

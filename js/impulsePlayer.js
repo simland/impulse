@@ -3,17 +3,7 @@
  * -Require jQuery
  * -Require underscore
  */
-
-function tile(description,wall_vector_x, wall_vector_y,type,image_source){
-	
-}
-
-function raceTrack (type){
-	
-}
-
-
-function raceCar(x,y,vX, vY, frame, tires, engine, facing){
+function impulsePlayer(x,y,vX, vY, frame, tires, engine, facing){
 	this.x = x || 5;
 	this.y = y || 5;
 	this.vX = vX || 1;
